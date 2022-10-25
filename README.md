@@ -1,3 +1,5 @@
+#FUNÇÃO SECULOANA#
+
 function centuryFromYear(year) {
     if (year >= 1 && year <= 101)return 1
     else if (year >= 102 && year <= 201)return 2
